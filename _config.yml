@@ -1,0 +1,4 @@
+encoding: UTF-8
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
